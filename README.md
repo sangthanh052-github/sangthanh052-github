@@ -48,6 +48,6 @@
 <br/>
 <p align="left">
   <a align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangthanh052&show_icons=true&locale=en&layout=compact" alt="sangthanh052" height="195" /></a>
-  <a align="left"><img src="https://github-readme-stats.vercel.app/api?username=sangthanh052&show_icons=true&locale=en&theme=default" alt="sangthanh052" /></a>
+  <a align="left"><img src="https://github-readme-stats.vercel.app/api?username=sangthanh052&show_icons=true&locale=en&theme=flag-india" alt="sangthanh052" /></a>
 </p>
 <p align="left"><a><img src="https://github-readme-streak-stats.herokuapp.com/?user=sangthanh052" alt="sangthanh052" /></a></p>
